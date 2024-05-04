@@ -1,0 +1,13 @@
+pip install langchain
+pip install huggingface_hub
+pip install openai
+pip install pypdf
+pip install requests
+pip install faiss-cpu
+pip install chromadb
+pip install sentence_transformers
+pip install langchain.chains.questions_answering
+pip install cython
+pip install unstructured[local-inference]
+pip install langchain.indexes
+pip install unstructured
