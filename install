@@ -11,3 +11,6 @@ pip install cython
 pip install unstructured[local-inference]
 pip install langchain.indexes
 pip install unstructured
+
+
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser -- for intellij
